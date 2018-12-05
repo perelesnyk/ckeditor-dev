@@ -13,6 +13,7 @@ Fixed Issues:
 * [#2506](https://github.com/ckeditor/ckeditor-dev/issues/2506): Fixed: [Enhanced Image](https://ckeditor.com/cke4/addon/image2) throws type error when empty figure tag with 'image' class is upcasted.
 * [#2650](https://github.com/ckeditor/ckeditor-dev/issues/2650): Fixed: [Table](https://ckeditor.com/cke4/addon/table) dialog validator fails when function `getValue` is defined in global scope.
 * [#2690](https://github.com/ckeditor/ckeditor-dev/issues/2690): Fixed: Decimal characters removed from inside ordered lists when pasting content using [Paste from Word](https://ckeditor.com/cke4/addon/pastefromword) plugin.
+* [#1478](https://github.com/ckeditor/ckeditor-dev/issues/1478): Fixed: Custom colors added to [Color Button](https://ckeditor.com/cke4/addon/colorbutton) via [`colorButton_colors`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_config.html#cfg-colorButton_colors) in form label/code don't work correctly.
 
 Other Changes:
 
