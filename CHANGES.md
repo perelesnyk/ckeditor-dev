@@ -9,6 +9,10 @@ API Changes:
 * [#2021]: Add [`CKEDITOR.dom.documentFragment.find`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_dom_documentFragment.html#method-find) and [`CKEDITOR.dom.documentFragment.findOne`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_dom_documentFragment.html#method-findOne) methods.
 * [#2700](https://github.com/ckeditor/ckeditor-dev/issues/2700): Added the [`CKEITOR.tools.array.find`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_tools_array.html#method-find) function.
 
+New Features:
+
+* [#2048](https://github.com/ckeditor/ckeditor-dev/issues/2048): [Enhanced Image](https://ckeditor.com/cke4/addon/image2) added config option [CKEDITOR.config.image2_maxSize](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_config.html#cfg-image2_maxSize) that allows seting maximum size that image can be resized to with resizer.
+
 ## CKEditor 4.11.2
 
 Fixed Issues:
