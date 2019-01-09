@@ -1,6 +1,12 @@
 ﻿CKEditor 4 Changelog
 ====================
 
+## CKEditor 4.11.3
+
+Fixed Issues:
+
+* [#2572](https://github.com/ckeditor/ckeditor-dev/issues/2572): Fixed: [Emoji](https://ckeditor.com/cke4/addon/emoji) dropdown styles improvement: icons in navigation groups are centred and preview in statusbar has better top margin.
+
 ## CKEditor 4.11.2
 
 Fixed Issues:
