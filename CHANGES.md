@@ -1,6 +1,12 @@
 ﻿CKEditor 4 Changelog
 ====================
 
+## CKEditor 4.11.3
+
+Fixed Issues:
+
+* [#2721](https://github.com/ckeditor/ckeditor-dev/issues/2721): Fixed: Sublist items are reversed when higher order list is removed.
+
 ## CKEditor 4.11.2
 
 Fixed Issues:
